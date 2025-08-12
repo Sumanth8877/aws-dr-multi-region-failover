@@ -94,7 +94,7 @@ Once the health check passes, Route 53 will automatically route traffic back to 
 ![Primary Site](Screenshots/primary.png)
 
 **Primary EC2 Stopped (Failover Triggered)**  
-![Primary Stopped](Screenshots/primarystopped.png)
+![Primary Stopped](Screenshots/Primarystopped.png)
 
 **Secondary Site (Failover Successful)**  
 ![Secondary Site](Screenshots/secondary.png)
